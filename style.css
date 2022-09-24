@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 10px;
 }
 .half-width{
     padding-left: 5%;
@@ -30,4 +31,60 @@ section{
 .top-banner{
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
+}
+.half-width2{
+    width: 50%;
+    padding: 5%;
+}
+.half-width2 img{
+    width: 70%;
+    padding-left: 40%;
+}
+.contact{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(#FBA24F,#FF1E1E);
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.half-widt2{
+    width: 50%;
+    padding-right: 15%;
+    padding-left: 8%;
+    font-size: 12px;
+}
+#my{
+    text-align: center;
+    font-size: 20px;
+}
+.pe{
+    text-align: center;
+    font-size: 10px;
+    padding: 5px;
+    padding-bottom: 5%;
+}
+.p{
+    padding-bottom: 10%;
+}
+.bottom{
+    display: flex;
+    padding-left: 10%;
+}
+.bottom img{
+    width: 80%;
+}
+.imagen{
+    padding-right: 5px;
+}
+.imagem{
+    padding-left: 5px;
+}
+.parr-tow{
+    font-size: 15px;
 }
