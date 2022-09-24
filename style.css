@@ -125,8 +125,6 @@ section{
     padding-top: 5%;
     text-align: center;
     color: #575757;
-    margin: 0%;
-    background-color: black;
 }
 .footer-h{
     font-size: 25px;
@@ -137,4 +135,8 @@ section{
 }
 .footer-p{
     font-size: 15px;
+}
+.nothing{
+    background-color: black;
+    width: 1700px;
 }
