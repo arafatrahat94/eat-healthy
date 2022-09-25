@@ -14,6 +14,7 @@ section{
     margin-bottom: 10px;
 }
 .half-width{
+
     padding-left: 5%;
    width: 50%;
 }
@@ -23,16 +24,18 @@ section{
 .order-button{
     text-decoration: none;
     background-image: linear-gradient(#FBA24F,#FF1E1E);
-    padding: 10px 20px;
-    border-radius: 20px;
+    padding: 20px 50px;
+    border-radius: 30px;
     color: whitesmoke;
     font-weight: 500;
 }
 .top-banner{
+    padding-left: 5%;
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
 }
 .half-width2{
+
     width: 50%;
     padding: 5%;
 }
@@ -41,17 +44,20 @@ section{
     padding-left: 40%;
 }
 .contact{
+    
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 20px 50px;
     background-image: linear-gradient(#FBA24F,#FF1E1E);
-    border-radius: 20px;
+    border-radius: 30px;
     color: white;
     font-weight: 500;
+    font-size: 20px;
 }
 .about-me{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: 100%;
+    padding-right: 10%;
 }
 .half-widt2{
     width: 50%;
@@ -139,4 +145,21 @@ section{
 .nothing{
     background-color: black;
     width: 1700px;
+}
+.one{
+    font-size: 70px;
+    width: 77%;
+    margin-top: 20%;
+}
+.para{
+    color: #575757;
+    font-size: 30px;
+}
+.about{
+    padding-top: 5%;
+    font-size: 50px;
+}
+.p{
+    font-size: 25px;
+    color: #575757;
 }
