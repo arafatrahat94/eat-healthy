@@ -30,9 +30,11 @@ section{
     font-weight: 500;
 }
 .top-banner{
+    padding-bottom: 5%;
     padding-left: 5%;
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
+    width: 80%;
 }
 .half-width2{
 
@@ -57,7 +59,6 @@ section{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: 100%;
-    padding-right: 10%;
 }
 .half-widt2{
     width: 50%;
@@ -67,11 +68,11 @@ section{
 }
 #my{
     text-align: center;
-    font-size: 20px;
+    font-size: 45px;
 }
 .pe{
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     padding: 5px;
     padding-bottom: 5%;
     width: 50%;
@@ -95,7 +96,7 @@ section{
 }
 .parr-tow{
     padding-left: 1%;
-    font-size: 15px;
+    font-size: 18px;
 }
 .imagem{
     width: 40%;
@@ -144,7 +145,7 @@ section{
 }
 .nothing{
     background-color: black;
-    width: 1700px;
+    width: 100%;
 }
 .one{
     font-size: 70px;
@@ -162,4 +163,14 @@ section{
 .p{
     font-size: 25px;
     color: #575757;
+}
+.re{
+    padding-left: 6px;
+}
+.half-width0{
+    font-size: 17px;
+}
+.top-banner img{
+    width: 140%;
+    padding-left: 1.7%;
 }
